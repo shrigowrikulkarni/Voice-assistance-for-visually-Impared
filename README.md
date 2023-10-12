@@ -8,7 +8,7 @@ SHRIGOWRI S KULKARNI        |  https://github.com/shrigowrikulkarni
 
 TEAM MATES:    
 
-MANUPRIYA G B               | 
+MANUPRIYA G B               | https://github.com/ManupriyaGB
 
 SOUMYA KALASAREDDY          | 
 
