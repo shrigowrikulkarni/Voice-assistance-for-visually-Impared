@@ -1,7 +1,7 @@
 # Voice-Assistance-for-Visually-Impared
 As a virtual assistant designed to help visually impaired people navigate around places and identify individuals in front of them.
 
-# TEAM:  FRIENDS146
+# TEAM:  TECHNOTATVA 
 TEAM LEADER:   
 
 SHRIGOWRI S KULKARNI        |  https://github.com/shrigowrikulkarni
